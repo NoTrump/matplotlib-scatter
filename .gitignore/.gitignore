@@ -41,3 +41,4 @@ plt.plot(
     data['购买用户数'], 
     "o", color=mainColor
 )
+ 
